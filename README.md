@@ -15,8 +15,6 @@
 
 ## to compile
 make src/ccolor
-## to run on a unix-like environment (gnu/linux, mingw/msys, android MaCOS(X), BSD, ... )
+## to run on a unix-like environment (gnu/linux, MS win mingw/msys, android MaCOS(X), BSD, ... )
 src/ccolor
-## to run on MS win
-src\ccolor
 
