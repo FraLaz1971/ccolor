@@ -13,8 +13,10 @@
 6. purple
 # --*--*--
 
+![rainbow flag in terminal](ccolor.png)
+
 ## to compile
-make src/ccolor
+    make src/ccolor
 ## to run on a unix-like environment (gnu/linux, MS win mingw/msys, android MaCOS(X), BSD, ... )
-src/ccolor
+    src/ccolor
 
