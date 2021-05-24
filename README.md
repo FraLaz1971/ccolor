@@ -1,17 +1,17 @@
-../ccolor
-├── config
-├── README.md
-└── src
-    ├── ccolor
-    └── ccolor.c prints gender respect flag using ansi escape codes and c
---*--*--
-red
-orange
-yellow
-green
-blue
-purple
---*--*--
+# ../ccolor
+*├── config
+*├── README.md
+*└── src
+*    ├── ccolor
+*    └── ccolor.c prints gender respect flag using ansi escape codes and c
+#--*--*--
+1. red
+2. orange
+3. yellow
+4. green
+5. blue
+6. purple
+#--*--*--
 
 #to compile
 make src/ccolor
