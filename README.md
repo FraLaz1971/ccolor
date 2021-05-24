@@ -1,9 +1,9 @@
 # ../ccolor
-*├── config
-*├── README.md
-*└── src
-*    ├── ccolor
-*    └── ccolor.c prints gender respect flag using ansi escape codes and c
+* ├── config
+* ├── README.md
+* └── src
+*     ├── ccolor
+*     └── ccolor.c prints gender respect flag using ansi escape codes and c
 #--*--*--
 1. red
 2. orange
